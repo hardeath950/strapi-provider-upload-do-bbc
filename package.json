@@ -1,7 +1,7 @@
 {
-  "name": "strapi-provider-upload-do",
-  "version": "3.6.6",
-  "description": "Digital ocean spaces provider for Strapi upload plugin",
+  "name": "strapi-provider-upload-do-bbc",
+  "version": "1.0.0",
+  "description": "Digital ocean spaces provider for Strapi upload plugin by BBC-HC",
   "homepage": "http://strapi.io",
   "keywords": [
     "upload",
@@ -22,16 +22,16 @@
     "isProvider": true
   },
   "author": {
-    "email": "adam@qusion.com",
-    "name": "Qusion s.r.o.",
-    "url": "https://qusion.com"
+    "email": "raaaaul@live.com",
+    "name": "Raul Dom.",
+    "url": "https://github.com/hardeath950"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/shorwood/strapi-provider-upload-do.git"
+    "url": "git://github.com/shorwood/strapi-provider-upload-do-bbc.git"
   },
   "bugs": {
-    "url": "https://github.com/shorwood/strapi-provider-upload-do/issues"
+    "url": "https://github.com/shorwood/strapi-provider-upload-do-bbc/issues"
   },
   "engines": {
     "node": ">= 10.0.0",
