@@ -23,7 +23,7 @@ npm i strapi-provider-upload-do
 
 ```
 module.exports = {
-  provider: "do",
+  provider: "do-bbc",
   providerOptions: {
     key: process.env.DO_SPACE_ACCESS_KEY,
     secret: process.env.DO_SPACE_SECRET_KEY,
