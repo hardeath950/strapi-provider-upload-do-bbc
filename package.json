@@ -28,10 +28,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/shorwood/strapi-provider-upload-do-bbc.git"
+    "url": "git://github.com/hardeath950/strapi-provider-upload-do-bbc.git"
   },
   "bugs": {
-    "url": "https://github.com/shorwood/strapi-provider-upload-do-bbc/issues"
+    "url": "https://github.com/hardeath950/strapi-provider-upload-do-bbc/issues"
   },
   "engines": {
     "node": ">= 10.0.0",
