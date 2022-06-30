@@ -46,11 +46,11 @@ DO_SPACE_DIRECTORY
 DO_SPACE_CDN
 ```
 
-with values obtained from tutorial:
+with values obtained from the tutorial:
 
 > https://www.digitalocean.com/community/tutorials/how-to-create-a-digitalocean-space-and-api-key
 
-Parameter `DO_SPACE_DIRECTORY` and `DO_SPACE_CDN` is optional and you can ommit them both in `.env` and `settings`.
+Parameter `DO_SPACE_DIRECTORY` and `DO_SPACE_CDN` are optional and you can omit them both in `.env` and `settings`.
 
 ## Resources
 
