@@ -16,7 +16,11 @@ This provider will upload to the space using the AWS S3 API.
 1. Install this package
 
 ```
-npm i strapi-provider-upload-do
+// npm
+npm i strapi-provider-upload-do-bbc
+
+// yarn 
+yarn add strapi-provider-upload-do-bbc
 ```
 
 2. Create or update (if exist) config 
